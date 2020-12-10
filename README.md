@@ -1,4 +1,4 @@
-[Visit](https://chojess1.github.io/Portfolio/) my portfolio.
+[Link](https://chojess1.github.io/Portfolio/) to my portfolio
 
 ---
 
