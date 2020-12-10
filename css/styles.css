@@ -547,8 +547,6 @@ pre code {
 .container-md,
 .container-sm {
   width: 100%;
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
   margin-right: auto;
   margin-left: auto;
 }
@@ -9986,8 +9984,8 @@ h3 {
 .btn-social {
   border-radius: 100%;
   display: inline-flex;
-  width: 3.25rem;
-  height: 3.25rem;
+  width: 2rem;
+  height: 2.25rem;
   font-size: 1.25rem;
   justify-content: center;
   align-items: center;
