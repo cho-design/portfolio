@@ -1,3 +1,5 @@
+[Visit](https://chojess1.github.io/Portfolio/) my portfolio.
+
 ---
 
 ### Wireframes
@@ -29,8 +31,6 @@
 ### Portoflio Demo
 
 ---
-
-[https://chojess1.github.io/Portfolio/](https://chojess1.github.io/Portfolio/).
 
 
 ![Desktop-view](https://github.com/chojess1/Portfolio/blob/main/PortfolioDemo-desktop.gif)
