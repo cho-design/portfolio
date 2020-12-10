@@ -1,6 +1,4 @@
-[Link](https://chojess1.github.io/Portfolio/) to my portfolio
-
-URL https://chojess1.github.io/Portfolio/
+[Link](https://chojess1.github.io/Portfolio/) to my portfolio (https://chojess1.github.io/Portfolio/)
 
 ---
 
