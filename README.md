@@ -1,7 +1,6 @@
+### Wireframes
+
 ---
-
-### Design sketches for the Portoflio
-
 
 Desktop
 
@@ -17,6 +16,9 @@ Mobile
 ---
 
 ### w3 Validation 
+
+---
+
 ![w3validator](https://github.com/chojess1/Portfolio/blob/main/w3validation.png)
 
 
@@ -26,6 +28,7 @@ Mobile
 
 ### Portoflio Demo
 
+---
 
 [https://chojess1.github.io/Portfolio/](https://chojess1.github.io/Portfolio/).
 
