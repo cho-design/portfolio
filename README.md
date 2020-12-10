@@ -1,13 +1,13 @@
+---
+
 ### Wireframes
 
 ---
 
-Desktop
 
 ![Desktop-view](https://github.com/chojess1/Portfolio/blob/main/Wireframe-desktop.png)
 
 
-Mobile 
 
 ![Mobile-view](https://github.com/chojess1/Portfolio/blob/main/Wireframe-mobile.png)
 
